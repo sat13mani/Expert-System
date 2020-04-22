@@ -2,13 +2,19 @@ import os
 
 
 def initialize():
+    '''
+    Objective: Basic Preprocessing
+    params: None
+    return: dict symptom_map key: symptom_list in string format value: disease
+            dict description_map key: disease value: description
+            dict treatment_map key: disease value: treatment
+    '''
     symptom_map = {}
     description_map = {}
     treatment_map = {}
     symptoms = []
     with open("diseases.txt") as d_file:
         diseases = (d_file.read()).split('\n')
-        print(diseases)
         for disease in diseases:
             path = os.getcwd()
             path1 = os.path.join(path, "Disease symptoms")
@@ -33,14 +39,7 @@ def initialize():
                 t_data = reader.read()
                 treatment_map[disease] = t_data
 
-    for item in symptom_map.items():
-        print((item))
-
-    for item in description_map.items():
-        print((item))
-
-    for item in treatment_map.items():
-        print((item))
+    return symptom_map, description_map, treatment_map
 
 
 initialize()
