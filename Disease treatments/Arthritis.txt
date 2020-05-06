@@ -1,23 +1,30 @@
-Arthritis treatment focuses on relieving symptoms and improving joint function. You may need to try several different treatments, or combinations of treatments, before you determine what works best for you.
-
-Medications
 The medications used to treat arthritis vary depending on the type of arthritis. Commonly used arthritis medications include:
 
-Analgesics. These medications help reduce pain, but have no effect on inflammation.
+    Painkillers. These medications help reduce pain, but have no effect on inflammation. An over-the-counter option includes acetaminophen (Tylenol, others).
 
-Nonsteroidal anti-inflammatory drugs (NSAIDs). NSAIDs reduce both pain and inflammation. Over-the-counter NSAIDs include ibuprofen and naproxen sodium. Oral NSAIDs can cause stomach irritation, and some may increase your risk of heart attack or stroke.
+    For more-severe pain, opioids might be prescribed, such as tramadol (Ultram, ConZip), oxycodone (OxyContin, Roxicodone, others) or hydrocodone (Hysingla, Zohydro ER). Opioids act on the central nervous system to relieve pain. When opioids are used for a long time, they may become habit-forming, causing mental or physical dependence.
 
-Disease-modifying antirheumatic drugs (DMARDs). Often used to treat rheumatoid arthritis, DMARDs slow or stop your immune system from attacking your joints.
+    Nonsteroidal anti-inflammatory drugs (NSAIDs). NSAIDs reduce both pain and inflammation. Over-the-counter NSAIDs include ibuprofen (Advil, Motrin IB, others) and naproxen (Aleve). Some types of NSAIDs are available only by prescription.
+
+    Oral NSAIDs can cause stomach irritation and may increase your risk of heart attack or stroke. Some NSAIDs are also available as creams or gels, which can be rubbed on joints.
+    Counterirritants. Some varieties of creams and ointments contain menthol or capsaicin, the ingredient that makes hot peppers spicy. Rubbing these preparations on the skin over your aching joint may interfere with the transmission of pain signals from the joint itself.
+    Disease-modifying antirheumatic drugs (DMARDs). Often used to treat rheumatoid arthritis, DMARDs slow or stop your immune system from attacking your joints. Examples include methotrexate (Trexall, Rasuvo, others) and hydroxychloroquine (Plaquenil).
+
+    Biologic response modifiers. Typically used in conjunction with DMARDs, biologic response modifiers are genetically engineered drugs that target various protein molecules that are involved in the immune response.
+
+    There are many types of biologic response modifiers. Tumor necrosis factor (TNF) inhibitors are commonly prescribed. Examples include etanercept (Enbrel, Erelzi, Eticovo) and infliximab (Remicade, Inflectra, others).
+
+    Other medications target other substances that play a role in inflammation, such as interleukin-1 (IL-1), interleukin-6 (IL-6), Janus kinase enzymes, and certain types of white blood cells known as B cells and T cells.
+    Corticosteroids. This class of drugs, which includes prednisone (Prednisone Intensol, Rayos) and cortisone (Cortef), reduces inflammation and suppresses the immune system. Corticosteroids can be taken orally or can be injected directly into the painful joint.
 
 Therapy
-Physical therapy can be helpful for some types of arthritis. Exercises can improve range of motion and strengthen the muscles surrounding joints. In some cases, splints or braces may be warranted.
 
+Physical therapy can be helpful for some types of arthritis. Exercises can improve range of motion and strengthen the muscles surrounding joints. In some cases, splints or braces may be warranted.
 Surgery
 
 If conservative measures don't help, your doctor may suggest surgery, such as:
 
-Joint repair. In some instances, joint surfaces can be smoothed or realigned to reduce pain and improve function. These types of procedures can often be performed arthroscopically — through small incisions over the joint.
+    Joint repair. In some instances, joint surfaces can be smoothed or realigned to reduce pain and improve function. These types of procedures can often be performed arthroscopically — through small incisions over the joint.
+    Joint replacement. This procedure removes your damaged joint and replaces it with an artificial one. Joints most commonly replaced are hips and knees.
+    Joint fusion. This procedure is more often used for smaller joints, such as those in the wrist, ankle and fingers. It removes the ends of the two bones in the joint and then locks those ends together until they heal into one rigid unit.
 
-Joint replacement. This procedure removes your damaged joint and replaces it with an artificial one. Joints most commonly replaced are hips and knees.
-
-Joint fusion. This procedure is more often used for smaller joints, such as those in the wrist, ankle and fingers. It removes the ends of the two bones in the joint and then locks those ends together until they heal into one rigid unit.

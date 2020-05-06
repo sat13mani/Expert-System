@@ -12,7 +12,6 @@ def initialize():
     symptom_map = {}
     description_map = {}
     treatment_map = {}
-    symptoms = []
     with open("diseases.txt") as d_file:
         diseases = (d_file.read()).split('\n')
         for disease in diseases:
@@ -23,7 +22,6 @@ def initialize():
             with open(symptom_file) as reader:
                 symptom_list = (reader.read()).split('\n')
                 symptom_map[str(symptom_list)] = disease
-                symptoms.append(symptom_list)
 
             path2 = os.path.join(path, "Disease descriptions")
             path2 = os.path.join(path2, disease)
