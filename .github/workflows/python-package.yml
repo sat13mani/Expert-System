@@ -27,4 +27,4 @@ jobs:
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
     - name: testing data transfer
       run: |
-        echo $github.event.client_payload
+        echo ${{ github.event.client_payload }}
